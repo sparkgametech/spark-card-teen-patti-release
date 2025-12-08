@@ -1,0 +1,328 @@
+
+ani_start.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/ALL PACKED
+  rotate: false
+  xy: 1072, 110
+  size: 367, 85
+  orig: 374, 89
+  offset: 4, 2
+  index: -1
+img/POT LIMIT
+  rotate: false
+  xy: 1072, 23
+  size: 322, 85
+  orig: 329, 89
+  offset: 4, 2
+  index: -1
+img/all_bg
+  rotate: false
+  xy: 1298, 1441
+  size: 389, 276
+  orig: 397, 282
+  offset: 0, 5
+  index: -1
+img/bomb/ani_score_00
+  rotate: false
+  xy: 866, 38
+  size: 204, 190
+  orig: 600, 300
+  offset: 200, 49
+  index: -1
+img/bomb/ani_score_01
+  rotate: false
+  xy: 822, 1013
+  size: 410, 190
+  orig: 600, 300
+  offset: 97, 49
+  index: -1
+img/bomb/ani_score_02
+  rotate: false
+  xy: 1234, 924
+  size: 410, 190
+  orig: 600, 300
+  offset: 97, 49
+  index: -1
+img/bomb/ani_score_03
+  rotate: false
+  xy: 745, 499
+  size: 410, 187
+  orig: 600, 300
+  offset: 97, 51
+  index: -1
+img/bomb/ani_score_04
+  rotate: false
+  xy: 2, 823
+  size: 410, 190
+  orig: 600, 300
+  offset: 97, 52
+  index: -1
+img/bomb/ani_score_05
+  rotate: false
+  xy: 412, 1015
+  size: 408, 198
+  orig: 600, 300
+  offset: 98, 48
+  index: -1
+img/bomb/ani_score_06
+  rotate: false
+  xy: 2, 1030
+  size: 408, 203
+  orig: 600, 300
+  offset: 98, 45
+  index: -1
+img/bomb/ani_score_07
+  rotate: false
+  xy: 1524, 1116
+  size: 403, 210
+  orig: 600, 300
+  offset: 101, 45
+  index: -1
+img/bomb/ani_score_08
+  rotate: false
+  xy: 2, 1235
+  size: 392, 246
+  orig: 600, 300
+  offset: 106, 44
+  index: -1
+img/bomb/ani_score_09
+  rotate: false
+  xy: 775, 1215
+  size: 382, 224
+  orig: 600, 300
+  offset: 111, 39
+  index: -1
+img/bomb/ani_score_10
+  rotate: false
+  xy: 1159, 1205
+  size: 363, 234
+  orig: 600, 300
+  offset: 121, 33
+  index: -1
+img/bomb/ani_score_11
+  rotate: false
+  xy: 1646, 887
+  size: 342, 227
+  orig: 600, 300
+  offset: 140, 41
+  index: -1
+img/bomb/ani_score_12
+  rotate: false
+  xy: 396, 1250
+  size: 377, 231
+  orig: 600, 300
+  offset: 142, 39
+  index: -1
+img/bomb/ani_score_13
+  rotate: false
+  xy: 916, 688
+  size: 331, 234
+  orig: 600, 300
+  offset: 142, 37
+  index: -1
+img/bomb/ani_score_14
+  rotate: false
+  xy: 1249, 686
+  size: 327, 236
+  orig: 600, 300
+  offset: 142, 35
+  index: -1
+img/bomb/ani_score_15
+  rotate: false
+  xy: 1578, 651
+  size: 329, 234
+  orig: 600, 300
+  offset: 142, 34
+  index: -1
+img/bomb/ani_score_16
+  rotate: false
+  xy: 2, 585
+  size: 324, 236
+  orig: 600, 300
+  offset: 149, 33
+  index: -1
+img/bomb/ani_score_17
+  rotate: false
+  xy: 1486, 416
+  size: 325, 233
+  orig: 600, 300
+  offset: 150, 36
+  index: -1
+img/bomb/ani_score_18
+  rotate: false
+  xy: 1157, 452
+  size: 327, 232
+  orig: 600, 300
+  offset: 150, 36
+  index: -1
+img/bomb/ani_score_19
+  rotate: false
+  xy: 414, 620
+  size: 329, 234
+  orig: 600, 300
+  offset: 149, 35
+  index: -1
+img/bomb/ani_score_20
+  rotate: false
+  xy: 328, 395
+  size: 315, 223
+  orig: 600, 300
+  offset: 163, 46
+  index: -1
+img/bomb/ani_score_21
+  rotate: false
+  xy: 2, 360
+  size: 315, 223
+  orig: 600, 300
+  offset: 163, 45
+  index: -1
+img/bomb/ani_score_22
+  rotate: true
+  xy: 1813, 335
+  size: 314, 221
+  orig: 600, 300
+  offset: 162, 46
+  index: -1
+img/bomb/ani_score_23
+  rotate: false
+  xy: 950, 230
+  size: 289, 220
+  orig: 600, 300
+  offset: 171, 46
+  index: -1
+img/bomb/ani_score_24
+  rotate: false
+  xy: 1241, 197
+  size: 285, 217
+  orig: 600, 300
+  offset: 172, 48
+  index: -1
+img/bomb/ani_score_25
+  rotate: false
+  xy: 1528, 200
+  size: 275, 214
+  orig: 600, 300
+  offset: 174, 49
+  index: -1
+img/bomb/ani_score_26
+  rotate: false
+  xy: 276, 33
+  size: 184, 161
+  orig: 600, 300
+  offset: 181, 49
+  index: -1
+img/bomb/ani_score_27
+  rotate: false
+  xy: 2, 2
+  size: 183, 157
+  orig: 600, 300
+  offset: 181, 51
+  index: -1
+img/bomb/ani_score_28
+  rotate: false
+  xy: 645, 277
+  size: 303, 220
+  orig: 600, 300
+  offset: 169, 34
+  index: -1
+img/card_clubs_01
+  rotate: true
+  xy: 319, 196
+  size: 197, 272
+  orig: 198, 272
+  offset: 0, 0
+  index: -1
+img/card_hearts_01
+  rotate: true
+  xy: 2, 161
+  size: 197, 272
+  orig: 198, 272
+  offset: 0, 0
+  index: -1
+img/card_spades_01
+  rotate: true
+  xy: 593, 78
+  size: 197, 271
+  orig: 198, 272
+  offset: 0, 1
+  index: -1
+img/coin
+  rotate: true
+  xy: 1909, 729
+  size: 156, 125
+  orig: 156, 125
+  offset: 0, 0
+  index: -1
+img/coin_s
+  rotate: false
+  xy: 1929, 1150
+  size: 102, 70
+  orig: 104, 70
+  offset: 1, 0
+  index: -1
+img/light128_0
+  rotate: false
+  xy: 1524, 1334
+  size: 109, 105
+  orig: 128, 128
+  offset: 11, 14
+  index: -1
+img/matching
+  rotate: true
+  xy: 1921, 44
+  size: 289, 91
+  orig: 293, 94
+  offset: 3, 1
+  index: -1
+img/matching_bg
+  rotate: false
+  xy: 905, 1441
+  size: 391, 276
+  orig: 397, 282
+  offset: 3, 3
+  index: -1
+img/oring128_0
+  rotate: false
+  xy: 1929, 1222
+  size: 104, 104
+  orig: 128, 128
+  offset: 12, 12
+  index: -1
+img/pot_bg
+  rotate: true
+  xy: 1689, 1328
+  size: 389, 276
+  orig: 397, 282
+  offset: 0, 5
+  index: -1
+img/star
+  rotate: false
+  xy: 745, 708
+  size: 150, 146
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+img/star_light
+  rotate: false
+  xy: 414, 856
+  size: 500, 155
+  orig: 500, 250
+  offset: 0, 49
+  index: -1
+img/start
+  rotate: false
+  xy: 1528, 84
+  size: 391, 114
+  orig: 500, 250
+  offset: 54, 68
+  index: -1
+img/table8005_card_BG_01
+  rotate: false
+  xy: 2, 1483
+  size: 901, 234
+  orig: 909, 254
+  offset: 4, 10
+  index: -1

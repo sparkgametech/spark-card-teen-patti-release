@@ -1,0 +1,279 @@
+
+ani_show.png
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+FX_trans03/explosion_03
+  rotate: false
+  xy: 460, 122
+  size: 210, 201
+  orig: 250, 250
+  offset: 20, 38
+  index: -1
+FX_trans03/explosion_04
+  rotate: true
+  xy: 672, 120
+  size: 201, 202
+  orig: 250, 250
+  offset: 28, 29
+  index: -1
+FX_trans03/explosion_05
+  rotate: false
+  xy: 2, 134
+  size: 214, 208
+  orig: 250, 250
+  offset: 16, 32
+  index: -1
+FX_trans03/explosion_06
+  rotate: true
+  xy: 243, 135
+  size: 211, 215
+  orig: 250, 250
+  offset: 25, 25
+  index: -1
+FX_trans03/explosion_07
+  rotate: false
+  xy: 244, 348
+  size: 245, 226
+  orig: 250, 250
+  offset: 0, 24
+  index: -1
+FX_trans03/explosion_08
+  rotate: false
+  xy: 2, 580
+  size: 246, 233
+  orig: 250, 250
+  offset: 0, 17
+  index: -1
+FX_trans03/explosion_09
+  rotate: true
+  xy: 1542, 606
+  size: 250, 233
+  orig: 250, 250
+  offset: 0, 17
+  index: -1
+FX_trans03/explosion_10
+  rotate: true
+  xy: 1777, 609
+  size: 247, 233
+  orig: 250, 250
+  offset: 3, 17
+  index: -1
+FX_trans03/explosion_11
+  rotate: false
+  xy: 1777, 376
+  size: 244, 231
+  orig: 250, 250
+  offset: 6, 17
+  index: -1
+FX_trans03/explosion_12
+  rotate: false
+  xy: 492, 560
+  size: 241, 235
+  orig: 250, 250
+  offset: 9, 15
+  index: -1
+FX_trans03/explosion_13
+  rotate: true
+  xy: 2, 344
+  size: 234, 240
+  orig: 250, 250
+  offset: 8, 10
+  index: -1
+FX_trans03/explosion_14
+  rotate: false
+  xy: 963, 180
+  size: 233, 233
+  orig: 250, 250
+  offset: 4, 17
+  index: -1
+FX_trans03/explosion_15
+  rotate: false
+  xy: 735, 558
+  size: 238, 237
+  orig: 250, 250
+  offset: 3, 13
+  index: -1
+FX_trans03/explosion_16
+  rotate: false
+  xy: 250, 576
+  size: 240, 237
+  orig: 250, 250
+  offset: 1, 13
+  index: -1
+FX_trans03/explosion_17
+  rotate: false
+  xy: 727, 323
+  size: 234, 233
+  orig: 250, 250
+  offset: 0, 17
+  index: -1
+FX_trans03/explosion_18
+  rotate: false
+  xy: 491, 325
+  size: 234, 233
+  orig: 250, 250
+  offset: 0, 17
+  index: -1
+FX_trans03/explosion_19
+  rotate: true
+  xy: 1542, 370
+  size: 234, 233
+  orig: 250, 250
+  offset: 0, 17
+  index: -1
+FX_trans03/flare_00
+  rotate: false
+  xy: 1566, 26
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+FX_trans03/flash_00
+  rotate: false
+  xy: 1932, 303
+  size: 66, 71
+  orig: 160, 95
+  offset: 0, 24
+  index: -1
+FX_trans03/flash_02
+  rotate: false
+  xy: 963, 447
+  size: 102, 84
+  orig: 160, 95
+  offset: 0, 11
+  index: -1
+FX_trans03/flash_04
+  rotate: true
+  xy: 975, 533
+  size: 123, 92
+  orig: 160, 95
+  offset: 0, 3
+  index: -1
+FX_trans03/flash_06
+  rotate: false
+  xy: 1406, 16
+  size: 136, 90
+  orig: 160, 95
+  offset: 0, 5
+  index: -1
+FX_trans03/flash_08
+  rotate: false
+  xy: 1082, 15
+  size: 160, 91
+  orig: 160, 95
+  offset: 0, 4
+  index: -1
+FX_trans03/flash_10
+  rotate: false
+  xy: 675, 27
+  size: 160, 91
+  orig: 160, 95
+  offset: 0, 4
+  index: -1
+FX_trans03/flash_12
+  rotate: false
+  xy: 513, 27
+  size: 160, 91
+  orig: 160, 95
+  offset: 0, 4
+  index: -1
+FX_trans03/flash_14
+  rotate: false
+  xy: 351, 29
+  size: 160, 91
+  orig: 160, 95
+  offset: 0, 4
+  index: -1
+FX_trans03/flash_16
+  rotate: false
+  xy: 2, 38
+  size: 160, 94
+  orig: 160, 95
+  offset: 0, 1
+  index: -1
+FX_trans03/flash_19
+  rotate: false
+  xy: 1244, 18
+  size: 160, 88
+  orig: 160, 95
+  offset: 0, 0
+  index: -1
+FX_trans03/flash_21
+  rotate: true
+  xy: 975, 658
+  size: 137, 84
+  orig: 160, 95
+  offset: 23, 0
+  index: -1
+FX_trans03/tecGlow_00
+  rotate: false
+  xy: 876, 17
+  size: 204, 161
+  orig: 204, 161
+  offset: 0, 0
+  index: -1
+R_light_up
+  rotate: false
+  xy: 2, 815
+  size: 539, 41
+  orig: 539, 41
+  offset: 0, 0
+  index: -1
+blueLight
+  rotate: false
+  xy: 807, 797
+  size: 261, 59
+  orig: 261, 59
+  offset: 0, 0
+  index: -1
+blue_frame
+  rotate: false
+  xy: 1566, 228
+  size: 364, 140
+  orig: 364, 150
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 218, 2
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+mid_light
+  rotate: true
+  xy: 1069, 415
+  size: 441, 471
+  orig: 446, 482
+  offset: 3, 4
+  index: -1
+redLight
+  rotate: false
+  xy: 543, 797
+  size: 262, 59
+  orig: 262, 59
+  offset: 0, 0
+  index: -1
+red_frame
+  rotate: false
+  xy: 1198, 225
+  size: 366, 143
+  orig: 366, 150
+  offset: 0, 7
+  index: -1
+tx_LV3
+  rotate: false
+  xy: 1198, 108
+  size: 345, 115
+  orig: 345, 115
+  offset: 0, 0
+  index: -1
+wolf_LV3
+  rotate: false
+  xy: 1768, 67
+  size: 219, 159
+  orig: 260, 200
+  offset: 20, 13
+  index: -1
