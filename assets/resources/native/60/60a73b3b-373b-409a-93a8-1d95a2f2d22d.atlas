@@ -1,0 +1,89 @@
+ani_Explode_Spark.png
+size: 4030,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_Explode_Spark_00
+  rotate: false
+  xy: 0, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ani_Explode_Spark_01
+  rotate: false
+  xy: 252, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ani_Explode_Spark_02
+  rotate: false
+  xy: 504, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ani_Explode_Spark_03
+  rotate: false
+  xy: 756, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ani_Explode_Spark_04
+  rotate: false
+  xy: 1008, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ani_Explode_Spark_05
+  rotate: false
+  xy: 1260, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ani_Explode_Spark_06
+  rotate: false
+  xy: 1512, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ani_Explode_Spark_07
+  rotate: false
+  xy: 1764, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ani_Explode_Spark_08
+  rotate: false
+  xy: 2016, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ani_Explode_Spark_09
+  rotate: false
+  xy: 2268, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ani_Explode_Spark_10
+  rotate: false
+  xy: 2520, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ani_Explode_Spark_11
+  rotate: false
+  xy: 2772, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
