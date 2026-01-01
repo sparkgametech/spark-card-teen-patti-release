@@ -6,315 +6,315 @@ filter: Linear,Linear
 repeat: none
 ani_poker_out/ani_poker_out_00
   rotate: false
-  xy: 1986, 617
+  xy: 2004, 571
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 ani_poker_out/ani_poker_out_01
-  rotate: true
-  xy: 1866, 460
-  size: 158, 118
-  orig: 420, 300
-  offset: 131, 91
+  rotate: false
+  xy: 2004, 571
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
   index: -1
 ani_poker_out/ani_poker_out_02
   rotate: false
-  xy: 777, 191
-  size: 191, 134
+  xy: 750, 170
+  size: 191, 120
   orig: 420, 300
-  offset: 119, 83
+  offset: 119, 90
   index: -1
 ani_poker_out/ani_poker_out_03
   rotate: false
-  xy: 1231, 178
-  size: 218, 148
+  xy: 1763, 195
+  size: 210, 141
   orig: 420, 300
-  offset: 111, 76
+  offset: 119, 83
   index: -1
 ani_poker_out/ani_poker_out_04
-  rotate: false
-  xy: 996, 153
-  size: 233, 173
+  rotate: true
+  xy: 1763, 338
+  size: 234, 166
   orig: 420, 300
-  offset: 97, 69
+  offset: 97, 76
   index: -1
 ani_poker_out/ani_poker_out_05
-  rotate: false
-  xy: 1638, 169
-  size: 243, 193
+  rotate: true
+  xy: 1574, 337
+  size: 235, 187
   orig: 420, 300
-  offset: 92, 62
+  offset: 100, 69
   index: -1
 ani_poker_out/ani_poker_out_06
   rotate: true
-  xy: 1638, 364
-  size: 254, 226
+  xy: 1156, 327
+  size: 245, 226
   orig: 420, 300
-  offset: 83, 50
+  offset: 91, 50
   index: -1
 ani_poker_out/ani_poker_out_07
   rotate: true
-  xy: 1432, 328
-  size: 290, 204
+  xy: 1384, 290
+  size: 282, 188
   orig: 420, 300
-  offset: 56, 48
+  offset: 56, 56
   index: -1
 ani_poker_out/ani_poker_out_08
   rotate: true
-  xy: 553, 291
-  size: 327, 222
+  xy: 529, 254
+  size: 318, 219
   orig: 420, 300
-  offset: 28, 42
+  offset: 28, 44
   index: -1
 ani_poker_out/ani_poker_out_09
   rotate: true
-  xy: 294, 304
-  size: 314, 257
+  xy: 276, 275
+  size: 297, 251
   orig: 420, 300
-  offset: 41, 42
+  offset: 41, 48
   index: -1
 ani_poker_out/ani_poker_out_10
   rotate: false
-  xy: 2, 321
-  size: 290, 297
+  xy: 2, 275
+  size: 272, 297
   orig: 420, 300
-  offset: 65, 3
+  offset: 74, 3
   index: -1
 ani_poker_out/ani_poker_out_11
   rotate: true
-  xy: 996, 328
-  size: 290, 216
+  xy: 750, 292
+  size: 280, 202
   orig: 420, 300
-  offset: 65, 42
+  offset: 73, 46
   index: -1
 ani_poker_out/ani_poker_out_12
   rotate: true
-  xy: 777, 327
-  size: 291, 217
+  xy: 954, 291
+  size: 281, 200
   orig: 420, 300
-  offset: 65, 42
+  offset: 74, 50
   index: -1
 ani_poker_out/ani_poker_out_13
-  rotate: true
-  xy: 1214, 328
-  size: 290, 216
+  rotate: false
+  xy: 1574, 189
+  size: 118, 146
   orig: 420, 300
-  offset: 65, 42
+  offset: 165, 77
   index: -1
 ani_poker_out/ani_poker_out_14
   rotate: false
-  xy: 222, 210
+  xy: 943, 197
   size: 194, 92
   orig: 420, 300
   offset: 95, 103
   index: -1
 ani_poker_out/ani_poker_out_15
   rotate: false
-  xy: 2, 210
-  size: 218, 109
+  xy: 1156, 217
+  size: 219, 108
   orig: 420, 300
   offset: 92, 108
   index: -1
 ani_win/ani_win_01
   rotate: false
-  xy: 140, 28
+  xy: 1006, 158
   size: 82, 37
   orig: 200, 100
   offset: 56, 29
   index: -1
 ani_win/ani_win_02
   rotate: false
-  xy: 1883, 182
+  xy: 395, 31
   size: 162, 75
   orig: 200, 100
   offset: 16, 10
   index: -1
 ani_win/ani_win_03
   rotate: false
-  xy: 619, 220
+  xy: 895, 2
   size: 150, 69
   orig: 200, 100
   offset: 22, 13
   index: -1
 ani_win/ani_win_04
   rotate: false
-  xy: 2, 2
+  xy: 605, 189
   size: 136, 63
   orig: 200, 100
   offset: 29, 16
   index: -1
 ani_win/ani_win_05
   rotate: false
-  xy: 402, 7
+  xy: 1047, 8
   size: 150, 63
   orig: 200, 100
   offset: 23, 16
   index: -1
 ani_win/ani_win_06
   rotate: false
-  xy: 1801, 32
+  xy: 559, 33
   size: 166, 63
   orig: 200, 100
   offset: 15, 16
   index: -1
 ani_win/ani_win_07
   rotate: false
-  xy: 619, 119
+  xy: 1694, 123
   size: 199, 70
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_08
   rotate: false
-  xy: 418, 217
+  xy: 2, 201
   size: 199, 72
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_09
-  rotate: false
-  xy: 2, 137
+  rotate: true
+  xy: 1931, 373
   size: 199, 71
   orig: 200, 100
   offset: 0, 17
   index: -1
 ani_win/ani_win_10
-  rotate: false
-  xy: 203, 137
+  rotate: true
+  xy: 1975, 172
   size: 199, 71
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_11
   rotate: false
-  xy: 1231, 106
+  xy: 203, 108
   size: 199, 70
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_12
   rotate: false
-  xy: 1020, 82
+  xy: 1006, 73
   size: 199, 69
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_13
   rotate: false
-  xy: 2, 67
+  xy: 1407, 74
   size: 198, 68
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_14
   rotate: false
-  xy: 1415, 29
+  xy: 1807, 55
   size: 191, 66
   orig: 200, 100
   offset: 3, 16
   index: -1
 ani_win/ani_win_15
   rotate: false
-  xy: 1020, 17
+  xy: 727, 33
   size: 166, 63
   orig: 200, 100
   offset: 15, 16
   index: -1
 ani_win/ani_win_16
   rotate: false
-  xy: 1608, 29
+  xy: 202, 40
   size: 191, 66
   orig: 200, 100
   offset: 3, 16
   index: -1
 ani_win/ani_win_17
   rotate: false
-  xy: 202, 67
+  xy: 2, 58
   size: 198, 68
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_18
   rotate: false
-  xy: 404, 72
+  xy: 1207, 73
   size: 198, 69
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_19
   rotate: false
-  xy: 1597, 97
+  xy: 404, 108
   size: 199, 70
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_20
-  rotate: true
-  xy: 1957, 259
+  rotate: false
+  xy: 1139, 144
   size: 199, 71
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_21
-  rotate: true
-  xy: 1451, 127
+  rotate: false
+  xy: 1340, 144
   size: 199, 71
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_22
-  rotate: true
-  xy: 1883, 259
+  rotate: false
+  xy: 203, 201
   size: 199, 72
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_23
   rotate: false
-  xy: 418, 143
+  xy: 404, 180
   size: 199, 72
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_24
-  rotate: true
-  xy: 1524, 127
+  rotate: false
+  xy: 2, 128
   size: 199, 71
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_25
   rotate: false
-  xy: 1798, 97
+  xy: 605, 98
   size: 199, 70
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_26
   rotate: false
-  xy: 820, 81
+  xy: 806, 98
   size: 198, 70
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_27
   rotate: false
-  xy: 604, 49
+  xy: 1607, 53
   size: 198, 68
   orig: 200, 100
   offset: 0, 16
   index: -1
 ani_win/ani_win_28
   rotate: false
-  xy: 1221, 38
+  xy: 1377, 222
   size: 192, 66
   orig: 200, 100
   offset: 3, 16
   index: -1
 ani_win/ani_win_29
   rotate: false
-  xy: 804, 16
+  xy: 1407, 9
   size: 166, 63
   orig: 200, 100
   offset: 15, 16

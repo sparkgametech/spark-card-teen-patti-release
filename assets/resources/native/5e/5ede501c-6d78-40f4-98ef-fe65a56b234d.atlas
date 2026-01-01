@@ -6,14 +6,14 @@ filter: Linear,Linear
 repeat: none
 img/ALL PACKED
   rotate: false
-  xy: 1072, 110
+  xy: 1259, 110
   size: 367, 85
   orig: 374, 89
   offset: 4, 2
   index: -1
 img/POT LIMIT
   rotate: false
-  xy: 1072, 23
+  xy: 1259, 23
   size: 322, 85
   orig: 329, 89
   offset: 4, 2
@@ -27,7 +27,7 @@ img/all_bg
   index: -1
 img/bomb/ani_score_00
   rotate: false
-  xy: 866, 38
+  xy: 1805, 143
   size: 204, 190
   orig: 600, 300
   offset: 200, 49
@@ -215,8 +215,8 @@ img/bomb/ani_score_26
   offset: 181, 49
   index: -1
 img/bomb/ani_score_27
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 1628, 15
   size: 183, 157
   orig: 600, 300
   offset: 181, 51
@@ -250,15 +250,15 @@ img/card_spades_01
   offset: 0, 1
   index: -1
 img/coin
-  rotate: true
-  xy: 1909, 729
+  rotate: false
+  xy: 2, 34
   size: 156, 125
   orig: 156, 125
   offset: 0, 0
   index: -1
 img/coin_s
   rotate: false
-  xy: 1929, 1150
+  xy: 916, 941
   size: 102, 70
   orig: 104, 70
   offset: 1, 0
@@ -271,11 +271,11 @@ img/light128_0
   offset: 11, 14
   index: -1
 img/matching
-  rotate: true
-  xy: 1921, 44
-  size: 289, 91
-  orig: 293, 94
-  offset: 3, 1
+  rotate: false
+  xy: 866, 2
+  size: 318, 77
+  orig: 321, 80
+  offset: 2, 1
   index: -1
 img/matching_bg
   rotate: false
@@ -286,7 +286,7 @@ img/matching_bg
   index: -1
 img/oring128_0
   rotate: false
-  xy: 1929, 1222
+  xy: 160, 55
   size: 104, 104
   orig: 128, 128
   offset: 12, 12
@@ -314,7 +314,7 @@ img/star_light
   index: -1
 img/start
   rotate: false
-  xy: 1528, 84
+  xy: 866, 81
   size: 391, 114
   orig: 500, 250
   offset: 54, 68
